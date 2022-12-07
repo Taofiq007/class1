@@ -20,6 +20,10 @@ void main()
 
     sum = num1 / num2;
     printf("%d / %d =%0.1f\n",num1,num2,sum);
+    
+      sum = num1 % num2;
+    printf("%d % %d =%0.1f\n",num1,num2,sum);
+
 
 
 }
